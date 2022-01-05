@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allreality
-- 👀 I’m interested in ... setting up Bitcoin Core on Ubuntu 20 with the lightning network
-- 🌱 I’m currently learning ... how to run a full node 
+- 👀 I’m interested in ... setting up AI to wright the code for a game.
+- 🌱 I’m currently learning ... What to tell AI to do and Unreal Engine 5.  
 - 💞️ I’m looking to collaborate on ... learning more.
 - 📫 How to reach me ... akilhashim1@gmail.com
 
