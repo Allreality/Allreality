@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Allreality
-- 👀 I’m interested in ... setting up AI to write the code for a game.
-- 🌱 I’m currently learning ... What to tell AI to do and Unreal Engine 5.  
+- 👀 I’m dabbling in writing code for blockchain defi apps.
+- 🌱 Later, I'll be learning ... What to tell AI to do and Unreal Engine 5.  
 - 💞️ I’m looking to collaborate on ... learning more.
 - 📫 How to reach me ... akilhashim1@gmail.com
 
