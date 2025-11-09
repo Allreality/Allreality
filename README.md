@@ -7,7 +7,6 @@ I build autonomous AI systems and blockchain applications, focusing on the inter
 ### 🚀 Recent Projects
 
 - **[Midnight Knowledge Agent](https://github.com/Allreality/midnight-knowledge-agent)** - Multi-agent AI system for autonomous blockchain research and documentation using Claude AI
-- **Trading Bot** - Algorithmic trading system with AI-powered analysis (coming soon)
 
 ### 💻 Tech Stack
 
