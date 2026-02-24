@@ -9,7 +9,13 @@ Cybersecurity architect and inventor building hardware-enforced compliance infra
 
 **[Signal Intelligence Grid](https://github.com/Allreality/sig-platform)** — Patent-pending real-time attestation for transmission line infrastructure. Ingests DNP3/Modbus sensor data, cryptographically attests each payload via AMD EPYC SEV-SNP, and produces NERC CIP / FERC Order 881 audit-ready compliance records. Live benchmarks: 9–14ms sustained latency, ~70 attestations/sec.
 
-**[Midnight Infrastructure](https://github.com/Allreality/midnight-infrastructure)** — Blockchain compliance platform for healthcare, finance, and regulated enterprise. Built on Midnight (zero-knowledge privacy), 6 AI agents, 169 compliance documents across 27 frameworks, including HIPAA, NIST SP 800-171, SOC 2, and DeFi regulatory patterns.
+**[Midnight Infrastructure](https://github.com/Allreality/midnight-infrastructure)** — AI‑driven compliance and observability layer for the Midnight blockchain, focused on undeployed‑network development, zero‑knowledge proof flows, and governance‑grade dashboards.
+Supports healthcare, finance, and regulated enterprise use cases with:
+• 	6 autonomous AI agents
+• 	169 compliance documents across 27 frameworks
+• 	HIPAA, NIST SP 800‑171, SOC 2, DeFi regulatory patterns
+• 	x402 micropayment integration
+• 	ZK‑backed attestation and privacy‑preserving workflow
 
 ---
 
