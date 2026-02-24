@@ -49,8 +49,14 @@ Linux · Docker · Git · AWS · REST APIs · WebSockets · PostgreSQL · Chroma
 - **midnight-compliance.com** — Compliance platform (live)
 - **87.121.52.49:5010** — SIG Ingest API (live)
 - **Partner Portal** — Token-authenticated integration documentation
-
 ---
+Current Focus (Development Phase)
+This repository is in the early development phase and focuses on:
+• 	running Midnight on the undeployed network
+• 	experimenting with zero‑knowledge proof flows
+• 	building governance‑grade compliance dashboards
+• 	integrating SIG attestation patterns into Midnight contracts
+• 	prototyping AI‑agent workflows for regulated industries
 
 ## Background
 
