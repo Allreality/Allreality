@@ -8,21 +8,42 @@ Cybersecurity architect and inventor building hardware-enforced compliance infra
 
 ## Active Platforms
 
-### [Signal Intelligence Grid](https://github.com/Allreality/sig-platform)
+### Signal Intelligence Grid (SIG)
+Real‑time attestation for transmission line infrastructure  
+Repo: https://github.com/Allreality/sig-platform
 
-Patent-pending real-time attestation for transmission line infrastructure. Ingests DNP3/Modbus sensor data, cryptographically attests each payload via AMD EPYC SEV-SNP, and produces NERC CIP / FERC Order 881 audit-ready compliance records.
+Patent‑pending ingestion and attestation pipeline for DNP3/Modbus sensor data. Uses AMD EPYC SEV‑SNP to cryptographically attest each payload and produce NERC CIP / FERC Order 881 audit‑ready records.
 
-**Live benchmarks:** 9–14ms sustained latency, ~70 attestations/sec.
+Sustained 9–14ms attestation latency
 
-### [Midnight Infrastructure](https://github.com/Allreality/midnight-infrastructure)
+~70 attestations/sec
 
-AI-driven compliance and observability layer for the Midnight blockchain. **Operational on-chain**, with zero-knowledge proof flows and governance-grade dashboards supporting healthcare, finance, and regulated enterprise use cases.
+Hardware integration in progress with Lindsey Systems (TLM + SMARTLINE)
 
-- 6 autonomous AI agents
-- 169 compliance documents across 27 frameworks
-- HIPAA, NIST SP 800-171, SOC 2, DeFi regulatory patterns
-- x402 micropayment integration
-- ZK-backed attestation and privacy-preserving workflows
+Daily SEV‑SNP attestation reports at 6 AM UTC
+
+### Midnight Infrastructure
+AI‑driven compliance & observability layer for the Midnight blockchain  
+Repo: https://github.com/Allreality/midnight-infrastructure
+
+Operational on-chain with zero‑knowledge proof flows and governance‑grade dashboards for healthcare, finance, and regulated enterprise.
+
+6 autonomous AI agents
+
+169 compliance documents across 27 frameworks
+
+HIPAA · NIST SP 800‑171 · SOC 2 · DeFi regulatory patterns
+
+x402 micropayment integration
+
+ZK‑backed attestation & privacy‑preserving workflows
+
+---
+Blackart
+Creative systems, generative tooling, and experimental AI pipelines  
+Repo: https://github.com/Allreality/blackart
+
+Explores the intersection of cryptographic identity, generative media, and autonomous agents. Supports Midnight Infrastructure’s privacy‑preserving workflows and TRG’s creative‑technical initiatives.
 
 ---
 
@@ -53,16 +74,20 @@ AI-driven compliance and observability layer for the Midnight blockchain. **Oper
 
 ---
 
-## Operational
+## Operational Status
+This ecosystem reflects active, deployed production systems:
 
-This repository reflects an active, deployed system in production use:
+Midnight Compliance platform operational with on‑chain attestation flows
 
-- Midnight Compliance platform live at [midnight-compliance.com](https://midnight-compliance.com/) with on-chain attestation flows
-- SIG Ingest API operational with sustained 9–14ms attestation latency
-- AMD EPYC SEV-SNP daily attestation reports are automated at 6 AM UTC
-- x402 micropayment middleware accepting Solana mainnet payments
-- Hardware integration in progress with Lindsey Systems (TLM + SMARTLINE)
-- Active patent prosecution across two provisional filings
+SIG ingest pipeline sustaining 9–14ms attestation latency
+
+Daily SEV‑SNP hardware attestation reports
+
+x402 micropayment middleware accepting Solana mainnet payments
+
+TLM + SMARTLINE hardware integration underway
+
+Active patent prosecution across two filings
 
 ---
 
