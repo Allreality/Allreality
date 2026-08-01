@@ -22,11 +22,12 @@ Hardware integration in progress with Lindsey Systems (TLM + SMARTLINE)
 
 Daily SEV‑SNP attestation reports at 6 AM UTC
 
-### Midnight Infrastructure
-AI‑driven compliance & observability layer for the Midnight blockchain  
-Repo: https://github.com/Allreality/midnight-infrastructure
+### Midnight Infrastructure — Remote Confidential Computing Cyber Operations Center  
+A fully managed cyber‑resilience platform running ransomware response, forensic workflows, and compliance automation inside SEV‑SNP enclaves, anchored to the Midnight blockchain.
 
-Operational on-chain with zero‑knowledge proof flows and governance‑grade dashboards for healthcare, finance, and regulated enterprise.
+Enclave‑based forensic engine
+
+Immutable, insurer‑ready evidence chains
 
 6 autonomous AI agents
 
@@ -36,7 +37,9 @@ HIPAA · NIST SP 800‑171 · SOC 2 · DeFi regulatory patterns
 
 x402 micropayment integration
 
-ZK‑backed attestation & privacy‑preserving workflows
+Zero‑knowledge proof flows & governance dashboards
+
+Repo: https://github.com/Allreality/midnight-infrastructure
 
 ---
 Blackart
