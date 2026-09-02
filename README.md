@@ -98,4 +98,4 @@ Active patent prosecution across two filings
 
 Former federal IT security clearance · Chief Regent, Temne Abara Nation · Building physical infrastructure in Western Rural District, Sierra Leone (solar, internet, housing, water, roads, medical).
 
-**Total Reality Global — Marlborough, MA**
+**Total Reality Global LLC — Sheridan, WY**
