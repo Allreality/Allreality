@@ -1,6 +1,6 @@
 # Akil Hashim (@Allreality)
 
-**Systems Analyst — Total Reality Global**
+**Systems Analyst — Total Reality Global LLC**
 
 Cybersecurity architect and inventor building hardware-enforced compliance infrastructure at the intersection of critical infrastructure, blockchain, and AI. 20+ years in federal IT cybersecurity. Navy electronics. Dual US–Sierra Leone citizenship.
 
