@@ -26,7 +26,7 @@ Utility-grade DNP3 and Modbus ingestion
 NERC CIP and FERC Order 881 compliance support
 Tamper-evident audit records
 Real-time anomaly detection and infrastructure monitoring
-Integration efforts with Lindsey Systems TLM and SMARTLINE technologies
+Integration planed, efforts with Systems TLM and SMARTLINE technologies
 Midnight Infrastructure
 
 Remote Confidential Computing Cyber Operations Center
