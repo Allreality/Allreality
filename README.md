@@ -1,101 +1,144 @@
-# Akil Hashim (@Allreality)
+Akil Hashim (@Allreality)
+Founder | Systems Architect | Cybersecurity Innovator
 
-**Systems Analyst — Total Reality Global LLC**
+Founder of Total Reality Global and Midnight Infrastructure, building hardware-enforced cybersecurity, compliance, and critical infrastructure platforms at the intersection of confidential computing, AI, blockchain, and industrial control systems.
 
-Cybersecurity architect and inventor building hardware-enforced compliance infrastructure at the intersection of critical infrastructure, blockchain, and AI. 20+ years in federal IT cybersecurity. Navy electronics. Dual US–Sierra Leone citizenship.
+With more than 20 years of experience across federal IT, cybersecurity, telecommunications, and electronics systems, I focus on one core problem:
 
----
+Attackers will eventually get in. What matters is what they can see when they do.
 
-## Active Platforms
+My work combines confidential computing, cryptographic attestation, autonomous AI systems, and critical infrastructure telemetry to create environments where data remains protected even after a successful breach.
 
-### Signal Intelligence Grid (SIG)
-Real‑time attestation for transmission line infrastructure  
-Repo: https://github.com/Allreality/sig-platform
+Current Projects
+Signal Intelligence Grid (SIG)
 
-Patent‑pending ingestion and attestation pipeline for DNP3/Modbus sensor data. Uses AMD EPYC SEV‑SNP to cryptographically attest each payload and produce NERC CIP / FERC Order 881 audit‑ready records.
+Real-time attestation and monitoring platform for transmission infrastructure.
 
-Sustained 9–14ms attestation latency
+Repository:
+ https://github.com/Allreality/sig-platform
 
-~70 attestations/sec
+SIG ingests industrial telemetry from utility infrastructure using protocols such as DNP3 and Modbus, then cryptographically attests every event inside AMD SEV-SNP confidential computing environments.
 
-Hardware integration in progress with Lindsey Systems (TLM + SMARTLINE)
+Key capabilities:
 
-Daily SEV‑SNP attestation reports at 6 AM UTC
+Hardware-based attestation of infrastructure telemetry
+Utility-grade DNP3 and Modbus ingestion
+NERC CIP and FERC Order 881 compliance support
+Tamper-evident audit records
+Real-time anomaly detection and infrastructure monitoring
+Integration efforts with Lindsey Systems TLM and SMARTLINE technologies
+Midnight Infrastructure
 
-### Midnight Infrastructure — Remote Confidential Computing Cyber Operations Center  
-A fully managed cyber‑resilience platform running ransomware response, forensic workflows, and compliance automation inside SEV‑SNP enclaves, anchored to the Midnight blockchain.
+Remote Confidential Computing Cyber Operations Center
 
-Enclave‑based forensic engine
+Repository:
+ https://github.com/Allreality/midnight-infrastructure
 
-Immutable, insurer‑ready evidence chains
+Midnight Infrastructure is a cyber-resilience platform designed around the assumption that perimeter security eventually fails.
 
-6 autonomous AI agents
+The platform leverages confidential computing, blockchain verification, and autonomous agents to provide:
 
-169 compliance documents across 27 frameworks
+Ransomware response workflows
+Digital forensic automation
+Immutable evidence preservation
+Compliance intelligence and reporting
+Autonomous security operations
+Blockchain-backed attestations
 
-HIPAA · NIST SP 800‑171 · SOC 2 · DeFi regulatory patterns
+Core technologies include:
 
-x402 micropayment integration
+AMD EPYC SEV-SNP
+Midnight Network
+x402 payments
+AI-driven compliance agents
+Zero-knowledge verification workflows
+BlackArt
 
-Zero‑knowledge proof flows & governance dashboards
+Creative AI, media generation, and autonomous systems research.
 
-Repo: https://github.com/Allreality/midnight-infrastructure
+Repository:
+ https://github.com/Allreality/blackart
 
----
-Blackart
-Creative systems, generative tooling, and experimental AI pipelines  
-Repo: https://github.com/Allreality/blackart
+BlackArt explores the intersection of:
 
-Explores the intersection of cryptographic identity, generative media, and autonomous agents. Supports Midnight Infrastructure’s privacy‑preserving workflows and TRG’s creative‑technical initiatives.
+Generative AI
+Digital identity
+Autonomous agents
+Creative technologies
+Cryptographic trust systems
 
----
+Many experimental concepts developed here eventually feed into both SIG and Midnight Infrastructure.
 
-## Patents
+Patents
+Hardware-Enforced Compliance Architecture
 
-- **USPTO 63/917,456** — Hardware-Enforced Compliance Architecture. Foundational patent covering midnight-compliance.com and the SIG platform. Filed Nov 14, 2025.
-- **USPTO 63/983,517** — Signal Intelligence Grid. Filed Feb 15, 2026.
+USPTO Application 63/917,456
 
----
+Foundational intellectual property covering confidential-computing-based compliance systems and cryptographic attestation workflows.
 
-## Stack
+Signal Intelligence Grid
 
-**Security & Infrastructure** — AMD EPYC SEV-SNP · DNP3 · Modbus · NERC CIP · FERC 881 · NIST SP 800-171 · Zero-knowledge proofs
+USPTO Application 63/983,517
 
-**Blockchain** — Midnight · Solana · Ethereum · Bitcoin · Cardano · x402 payment protocol · Multi-chain custodial architecture
+Patent application covering the architecture and methods behind the Signal Intelligence Grid platform.
 
-**AI & Agents** — Claude API (Anthropic) · Multi-agent systems · Autonomous compliance research · FastAPI · Python
+Technology Stack
+Security & Critical Infrastructure
+AMD EPYC SEV-SNP
+Confidential Computing
+DNP3
+Modbus
+NERC CIP
+FERC Order 881
+NIST SP 800-171
+Zero-Knowledge Architectures
+Blockchain
+Midnight Network
+Cardano
+Bitcoin
+Ethereum
+Solana
+x402 Payment Protocol
+AI & Automation
+Multi-Agent Systems
+Claude API
+FastAPI
+Autonomous Compliance Research
+Retrieval-Augmented Workflows
+Platform Engineering
+Linux
+Docker
+AWS
+PostgreSQL
+REST APIs
+WebSockets
+Git
+ChromaDB
+Live Initiatives
+Midnight Compliance
+Signal Intelligence Grid
+Confidential Computing Research
+AI-Powered Compliance Automation
+Critical Infrastructure Attestation Systems
+Areas of Focus
+Confidential Computing
+Cyber Resilience
+Critical Infrastructure Security
+Utility Grid Modernization
+Autonomous Security Operations
+Blockchain Verification
+Compliance Automation
+Industrial Control System Security
+Background
+Former Federal IT Security Professional
+U.S. Navy Electronics Background
+Dual U.S. and Sierra Leone Citizenship
+Chief Regent, Temne Abara Nation
 
-**Infrastructure** — Linux · Docker · Git · AWS · REST APIs · WebSockets · PostgreSQL · ChromaDB
+Alongside technology development, I support infrastructure initiatives in Sierra Leone focused on connectivity, energy, housing, water access, and economic development.
 
----
+Total Reality Global
 
-## Live Systems
+Sheridan, Wyoming, USA
 
-- **[midnight-compliance.com](https://midnight-compliance.com/)** — Compliance platform, operational on-chain
-- **87.121.52.49:5010** — SIG Ingest API (live)
-- **Partner Portal** — Token-authenticated integration documentation
-
----
-
-## Operational Status
-This ecosystem reflects active, deployed production systems:
-
-Midnight Compliance platform operational with on‑chain attestation flows
-
-SIG ingest pipeline sustaining 9–14ms attestation latency
-
-Daily SEV‑SNP hardware attestation reports
-
-x402 micropayment middleware accepting Solana mainnet payments
-
-TLM + SMARTLINE hardware integration underway
-
-Active patent prosecution across two filings
-
----
-
-## Background
-
-Former federal IT security clearance · Chief Regent, Temne Abara Nation · Building physical infrastructure in Western Rural District, Sierra Leone (solar, internet, housing, water, roads, medical).
-
-**Total Reality Global LLC — Sheridan, WY**
+"Building systems that remain trustworthy even after compromise."
